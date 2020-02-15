@@ -1,5 +1,6 @@
 backend:
-  name: test-repo
+  name: github
+  repo: razwork/raz-rashid
 
 media_folder: static/assets
 public_folder: assets
